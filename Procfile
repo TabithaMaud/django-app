@@ -1,1 +1,1 @@
-web: gunicorn example_django.wsgi
+web: gunicorn dj_books.wsgi
